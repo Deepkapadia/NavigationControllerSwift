@@ -14,6 +14,7 @@
 		222D0D341EDBE82200654113 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222D0D321EDBE82200654113 /* LaunchScreen.storyboard */; };
 		222D0D3F1EDBE82200654113 /* NavigationControllerSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D0D3E1EDBE82200654113 /* NavigationControllerSwiftTests.swift */; };
 		222D0D4A1EDBE82200654113 /* NavigationControllerSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D0D491EDBE82200654113 /* NavigationControllerSwiftUITests.swift */; };
+		222D0D581EDBED6D00654113 /* first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D0D571EDBED6D00654113 /* first.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		222D0D451EDBE82200654113 /* NavigationControllerSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationControllerSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		222D0D491EDBE82200654113 /* NavigationControllerSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationControllerSwiftUITests.swift; sourceTree = "<group>"; };
 		222D0D4B1EDBE82200654113 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		222D0D571EDBED6D00654113 /* first.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = first.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				222D0D301EDBE82200654113 /* Assets.xcassets */,
 				222D0D321EDBE82200654113 /* LaunchScreen.storyboard */,
 				222D0D351EDBE82200654113 /* Info.plist */,
+				222D0D571EDBED6D00654113 /* first.swift */,
 			);
 			path = NavigationControllerSwift;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				222D0D2C1EDBE82200654113 /* ViewController.swift in Sources */,
 				222D0D2A1EDBE82200654113 /* AppDelegate.swift in Sources */,
+				222D0D581EDBED6D00654113 /* first.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

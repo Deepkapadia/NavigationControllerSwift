@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func btnnext(_ sender: Any) {
+        
+        let v1=storyboard?.instantiateViewController(withIdentifier: "next");
+        navigationController?.pushViewController(v1!, animated: true);
+    }
 
 }
 
